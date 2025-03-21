@@ -18,11 +18,11 @@ I have **6+ years of experience** in software engineering, specializing in **fro
 
 ## 👨‍💻 Work Experience  
 - **Consultant, Telecommunications Company (Indonesia) (2022 - Present)**  
-  - Leading a team of **3 SQA and 7 developers**  
   - Improving **data quality and reporting systems**  
   - Working with **SQL query optimization and performance tuning**  
 
-- **Software Engineer, Bank BTPN (2019 - 2022)**  
+- **Software Engineer, Bank BTPN (2019 - 2022)**
+  - Leading a team of **3 SQA and 7 developers**  
   - Developed and optimized **banking applications**  
   - Focused on **loans and SME transaction processing**  
 
