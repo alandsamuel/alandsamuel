@@ -27,7 +27,8 @@ I have **6+ years of experience** in software engineering, specializing in **fro
 - **Software Engineer, Bank BTPN (2019 - 2022)**
   - Leading a team of **3 SQA and 7 developers**  
   - Developed and optimized **banking applications**  
-  - Focused on **loans and SME transaction processing**  
+  - Focused on **loans and SME transaction processing**
+  - do research and fix **Penetration Testing Finding**
 
 ---
 
