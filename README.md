@@ -4,6 +4,9 @@
 
 I have **6+ years of experience** in software engineering, specializing in **frontend development (React)** and **backend optimization (Python, Golang, Java)**. I'm passionate about **building high-performance systems, SQL optimization, and elevating industry best practices**.  
 
+💡 **Open to contributing** to interesting projects  
+💼 **Available for freelance work**  
+
 ---
 
 ## 🛠 Tech Stack  
@@ -36,6 +39,6 @@ I have **6+ years of experience** in software engineering, specializing in **fro
 ---
 
 ## 📫 Let's Connect!  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourwebsite.com) | [Email](mailto:your@email.com)  
+[LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:aland.samuel.tiwa@gmail.com)  
 
-![Aland's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alandtiwa&show_icons=true&theme=dark)  
+![Aland's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alandsamuel&show_icons=true&theme=dark)  
