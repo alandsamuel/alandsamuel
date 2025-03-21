@@ -40,5 +40,3 @@ I have **6+ years of experience** in software engineering, specializing in **fro
 
 ## 📫 Let's Connect!  
 [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:aland.samuel.tiwa@gmail.com)  
-
-![Aland's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alandsamuel&show_icons=true&theme=dark)  
