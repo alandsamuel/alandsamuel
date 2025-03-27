@@ -1,6 +1,6 @@
 # Hi there, I'm Aland Samuel Tiwa 👋  
 
-🎯 Full-stack Developer | ⚡ Enthusiastic about clean code & system efficiency | 🎨 Miniature Painter  
+🎯 Full-stack Developer | ⚡ Enthusiastic about clean code & system efficiency | 🎨 Currently Trying Miniature Painter  
 
 I have **6+ years of experience** in software engineering, specializing in **frontend development (React)** and **backend optimization (Python, Golang, Java)**. I'm passionate about **building high-performance systems, SQL optimization, and elevating industry best practices**.  
 
