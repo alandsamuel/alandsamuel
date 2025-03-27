@@ -41,4 +41,4 @@ I have **6+ years of experience** in software engineering, specializing in **fro
 ---
 
 ## 📫 Let's Connect!  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:aland.samuel.tiwa@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/alandtiwa/) | [Email](mailto:aland.samuel.tiwa@gmail.com)  
