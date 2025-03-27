@@ -2,7 +2,7 @@
 
 🎯 Full-stack Developer | ⚡ Enthusiastic about clean code & system efficiency | 🎨 Currently Trying Miniature Painter  
 
-I have **6+ years of experience** in software engineering, specializing in **frontend development (React)** and **backend optimization (Python, Golang, Java)**. I'm passionate about **building high-performance systems, SQL optimization, and elevating industry best practices**.  
+I have **6+ years of experience** in software engineering, specializing in **frontend development (React)** and **backend optimization (Node.js, Python, Java)**. I'm passionate about **building high-performance systems, SQL optimization, and elevating industry best practices**.  
 
 💡 **Open to contributing** to interesting projects  
 💼 **Available for freelance work**  
@@ -10,7 +10,7 @@ I have **6+ years of experience** in software engineering, specializing in **fro
 ---
 
 ## 🛠 Tech Stack  
-**Languages:** JavaScript, TypeScript, Python (Flask), Golang, Java, SQL  
+**Languages:** JavaScript, TypeScript, Python (Flask), Java, SQL  
 **Frontend:** React, Next.js, React Native  
 **Backend:** Node.js, Flask, FastAPI, Spring Boot  
 **Databases:** MySQL, PostgreSQL, SQL Server  
@@ -29,6 +29,7 @@ I have **6+ years of experience** in software engineering, specializing in **fro
   - Developed and optimized **banking applications**  
   - Focused on **loans and SME transaction processing**
   - do research and fix **Penetration Testing Finding**
+  - creating security module on native by using react native bridging
 
 ---
 
