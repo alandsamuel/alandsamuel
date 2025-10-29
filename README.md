@@ -1,4 +1,6 @@
-# Hi there, I'm Aland Samuel Tiwa 👋  
+# Hi there, I'm Aland Samuel Tiwa 👋 
+---
+[LinkedIn](https://www.linkedin.com/in/alandtiwa/) | [Email](mailto:aland.samuel.tiwa@gmail.com) | [Portofolio](https://porto.bukantiwa.my.id/)
 
 🎯 Full-stack Developer | ⚡ Enthusiastic about clean code & system efficiency
 
@@ -16,8 +18,3 @@ I have **6+ years of experience** in software engineering, specializing in **fro
 **Databases:** MySQL, PostgreSQL, SQL Server  
 **Cloud & DevOps:** AWS, GCP, Docker, Kubernetes  
 **Other Tools:** Monday CRM, Azure Function Apps, Git, Pi-hole  
-
----
-
-## 📫 Let's Connect!  
-[LinkedIn](https://www.linkedin.com/in/alandtiwa/) | [Email](mailto:aland.samuel.tiwa@gmail.com)  
