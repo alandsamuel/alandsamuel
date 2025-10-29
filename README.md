@@ -19,26 +19,5 @@ I have **6+ years of experience** in software engineering, specializing in **fro
 
 ---
 
-## 👨‍💻 Work Experience  
-- **Consultant, Telecommunications Company (Indonesia) (2023 - 2024)**  
-  - Improving **data quality and reporting systems**  
-  - Working with **SQL query optimization and performance tuning**  
-
-- **Software Engineer, Bank BTPN (2020 - 2023)**
-  - Leading a team of **3 SQA and 7 developers**  
-  - Developed and optimized **banking applications**  
-  - Focused on **loans and SME transaction processing**
-  - do research and fix **Penetration Testing Finding**
-  - creating security module on native by using react native bridging
-
----
-
-## 🌱 Currently Exploring  
-- **Backend engineering** with **Golang & Java**  
-- **Cloud-native development** with **AWS & GCP**  
-- **Performance optimization** in large-scale applications  
-
----
-
 ## 📫 Let's Connect!  
 [LinkedIn](https://www.linkedin.com/in/alandtiwa/) | [Email](mailto:aland.samuel.tiwa@gmail.com)  
