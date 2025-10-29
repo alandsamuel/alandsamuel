@@ -1,5 +1,5 @@
-# Hi there, I'm Aland Samuel Tiwa 👋 
----
+# Hi there, I'm Aland Samuel Tiwa 👋
+
 [LinkedIn](https://www.linkedin.com/in/alandtiwa/) | [Email](mailto:aland.samuel.tiwa@gmail.com) | [Portofolio](https://porto.bukantiwa.my.id/)
 
 🎯 Full-stack Developer | ⚡ Enthusiastic about clean code & system efficiency
